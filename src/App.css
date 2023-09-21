@@ -81,7 +81,9 @@
 }
 
 .texto-navbar{
-  color:white
+  color:white;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 .imagen-home {
